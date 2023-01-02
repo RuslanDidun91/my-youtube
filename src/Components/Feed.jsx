@@ -31,7 +31,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          CopyRight 2022 Robert Neyrinck
+          CopyRight 2022 Ruslan Didun
         </Typography>
       </Box>
       <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>

@@ -2,7 +2,7 @@
 </br>
 </br>
       
- <a>[<img src="https://i.imgur.com/9UYNO3I.png" alt="Logo" width="100" height="100">](https://mern-ecommerse-project.herokuapp.com/)
+ <a>[<img src="https://i.imgur.com/3PlINMu.png" alt="Logo" width="100" height="100">](https://ruslandidun91.github.io/my-youtube/)
  </a>
  
 </br>
@@ -28,8 +28,8 @@
 #### my-YouTube is like a small copy of legendary YouTube only much better... I am using RapidAPI  as a 3rd party API, Material UI as main UI library and React for front end.
 
 ## Getting Started
-Join my-YouTube today via [link 👈](https://mern-ecommerse-project.herokuapp.com/) 
-and enjoy watching latest video. 
+Join my-YouTube today via [link 👈](https://ruslandidun91.github.io/my-youtube/) 
+and enjoy watching videos. 
 
 <img src="https://i.imgur.com/pgKBvwQ.png" alt="Logo" width="700" height="500">
 

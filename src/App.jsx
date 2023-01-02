@@ -4,7 +4,7 @@ import { Navbar, Feed, VideoDetail, ChannelDetail, SearchFeed } from './componen
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter >
       <Box sx={{ backgroundColor: '#000' }}>
         <Navbar />
         <Routes>

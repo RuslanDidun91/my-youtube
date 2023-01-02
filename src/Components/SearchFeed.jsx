@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import { Box, Typography } from "@mui/material";
-import { Videos } from ".";
+import { Videos } from "./";
 import { fetchFromAPI } from "../utils/fetchFromAPI";
 import { useParams } from "react-router-dom";
 

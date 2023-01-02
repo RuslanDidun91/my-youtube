@@ -13,7 +13,7 @@ const SearchBar = () => {
       navigate(`/search/${searchTerm}`);
       setSearchTerm('');
     }
-  }
+  };
 
   return (
     <Paper
@@ -38,7 +38,7 @@ const SearchBar = () => {
         <Search />
       </IconButton>
     </Paper>
-  )
-}
+  );
+};
 
 export default SearchBar;
